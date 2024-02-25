@@ -1,0 +1,74 @@
+{
+  "product": [
+    {
+      "id": "01be",
+      "name": "НеТуПИ",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=naYGtd9VFynpFpUjO1k7fsVbOhhNJMC2TaOO4VMfDLJGP0CIH7hHVnPJPumvhurWdzYnZSJZc-QAvedAWA2rPyvoAeA~Sss-cDqyAbeQggPwPaT8rVqJjgcc7d7A0eZuT65uaO7iWnEzaYbPwu8ziGdwbXIKuFCoEzFqffK11iLxRURDDYDl08lQ95S3SmTGBri8jz3dmQlLZB4rscZUsx9S71XuEy3bWMiwIxAGqgFkypAUPt5~14wYmuuiwuv2j1kWSemgVkqLDWyEFhyLK9DVH9QUyPEAGdYP2DIYl32TP8ztaaq~0f31XH1xdqKSYwbPFmqF-YfchCZXbL5ULg__",
+      "type": "wero",
+      "price": "2100 сом"
+    },
+    {
+      "id": "d8e3",
+      "name": "ВЫБОР",
+      "image": "https://s3-alpha-sig.figma.com/img/4dd8/1756/3d73842c9918080372e3a3a1d782ab78?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W0RKgJZwDkBB2OTCgxSvYzFKzONVV28V1qK0UfIbEKGLfl-ow7BWtuBxpeRzYRn94I6r1iOV~C~RCbpnCLRqz75m~xjycqtrToo~HWRaUMhzMEqL6eI0u0q6zftQdoPyCKs2yNLBXjXOfx9V84M0p08dPbUJfoS34sVwuvh4lO2XDi126DdqVd54CO2vh3DWgRTrjeNWcqKN~RHK3e17lm4svjGX257d7NNpTfBEF2bNVzmEBr6EO7btjpNpXoXDYOWD5tA464Hp0jClUi0VbSaLS14aYz0mDJZy030Zr-hoRd7XfDNOMb-23~uZbINmoBAOdc4xllYTp7dyu0zxaA__",
+      "type": "",
+      "price": "1200$"
+    },
+    {
+      "id": "9bc8",
+      "name": "все",
+      "image": "https://s3-alpha-sig.figma.com/img/2c15/40dc/d3887e1f3e48f35b353e1edcf2e7165e?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X2pfZ1n7YNUWQoorbBW9CQcOiuAYnndzQGHNR5JK0ckVyU7AA5mBtG77Q0qX3ObzDpEQLL-oM-VpyCaiqZQDEK3W43mUeelghz~Hdp0Pv2sxcpGbQVySlIO8B6wjzjUffuxE0FF-EzG2CbTOW~5g2FBQ9pIPsSMGPfkh9~0k1ydaMdW0MAPAmRnG~2KkW15nmloarwlPY1e~5fGOiGjCGf6lKHekANn5OugjS04kM7xQeWi1E9UVcyHI29cPuy4hda~R3YTxzCLHadwzjNUVltgPfqPmNx1tmjiR2yNQh33swRalkXGoKsfyahc03UpUb5ESHMqhwqcEqBrvwN~w7w__",
+      "type": "",
+      "price": "120$"
+    },
+    {
+      "id": "f314",
+      "name": "все",
+      "image": "https://s3-alpha-sig.figma.com/img/d555/8bb6/6907db7660fa38a4d11588c0ac766a40?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WhKKCrkh-uEixW0HV4Wc8yCkMSUDOLW2ttdQ3Tsyj7nz3tvDDtDIWS0W6btsjyG1SIg7HrjKmx6KvfbRHEMrkGWQq7rrZZeE2oCzR7hyjOZbyDPoxwX6azGWlXCWISsYOG-jSk1h1XKn2PQLDkKwO5XuRSEwm1f6p76GP45r7Uy7C0YPvn-hRYBSt2TVt3aMlQz96bXlkx7CvqhOVRduZku3BJ17eapAEnFMnPf6D9wT0bfRg5b6ENf9WwIOqn2vXHsJJmHdlzM5m0bfC-HCkWQt1d83JQO8gRZSUbqd5jC1DENCxJFAbXhprSh8tK0htBxSFZlgH4A-XoARlJXC8w__",
+      "type": "",
+      "price": "120$"
+    },
+    {
+      "id": "f680",
+      "name": "Парижский Шик",
+      "image": "https://s3-alpha-sig.figma.com/img/90cd/8e2b/7dc60aa50f301a733b3eae00ef525350?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DN1cUVlhCjCtwgqH79ImgzLpRN5tLSoz6JWlR9xmjIuhOUQLiCPhiY5QVzKgsXNsUf4VXERQL97sobQlUA4DqQx9oOlxRE95snMsi3Z0ujaA3SJuntMCw4kyESoNrqNxbMHQ3nTzbQQmrB17Hq73GeJb0ove1uo3Ts0ljbr31u-EWX0gt7EGKlPmhWqvsqgtFGwosGza0sZP0vlfeF0yFOsgcmsJXjy7iYBbIkk5w62FnOvm0qy~OPT0p~nXOcLKMFL1FnqWcoY-8HOnpsWzsL21yGC2tNmf~R3Ql5q4FXs~Ofb4iEXuZ2yFksI8dWzUZnefKtA~xMGrJZMrqmehJA__",
+      "type": "",
+      "price": "300;"
+    },
+    {
+      "id": "1672",
+      "name": "Парижский Шик",
+      "image": "https://s3-alpha-sig.figma.com/img/2c15/40dc/d3887e1f3e48f35b353e1edcf2e7165e?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X2pfZ1n7YNUWQoorbBW9CQcOiuAYnndzQGHNR5JK0ckVyU7AA5mBtG77Q0qX3ObzDpEQLL-oM-VpyCaiqZQDEK3W43mUeelghz~Hdp0Pv2sxcpGbQVySlIO8B6wjzjUffuxE0FF-EzG2CbTOW~5g2FBQ9pIPsSMGPfkh9~0k1ydaMdW0MAPAmRnG~2KkW15nmloarwlPY1e~5fGOiGjCGf6lKHekANn5OugjS04kM7xQeWi1E9UVcyHI29cPuy4hda~R3YTxzCLHadwzjNUVltgPfqPmNx1tmjiR2yNQh33swRalkXGoKsfyahc03UpUb5ESHMqhwqcEqBrvwN~w7w__",
+      "type": "",
+      "price": "300;"
+    },
+    {
+      "id": "7a25",
+      "name": "Парижский Шик",
+      "image": "https://s3-alpha-sig.figma.com/img/d555/8bb6/6907db7660fa38a4d11588c0ac766a40?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WhKKCrkh-uEixW0HV4Wc8yCkMSUDOLW2ttdQ3Tsyj7nz3tvDDtDIWS0W6btsjyG1SIg7HrjKmx6KvfbRHEMrkGWQq7rrZZeE2oCzR7hyjOZbyDPoxwX6azGWlXCWISsYOG-jSk1h1XKn2PQLDkKwO5XuRSEwm1f6p76GP45r7Uy7C0YPvn-hRYBSt2TVt3aMlQz96bXlkx7CvqhOVRduZku3BJ17eapAEnFMnPf6D9wT0bfRg5b6ENf9WwIOqn2vXHsJJmHdlzM5m0bfC-HCkWQt1d83JQO8gRZSUbqd5jC1DENCxJFAbXhprSh8tK0htBxSFZlgH4A-XoARlJXC8w__",
+      "type": "",
+      "price": "300;"
+    },
+    {
+      "id": "820a",
+      "name": "Парижский Шик",
+      "image": "https://s3-alpha-sig.figma.com/img/4dd8/1756/3d73842c9918080372e3a3a1d782ab78?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W0RKgJZwDkBB2OTCgxSvYzFKzONVV28V1qK0UfIbEKGLfl-ow7BWtuBxpeRzYRn94I6r1iOV~C~RCbpnCLRqz75m~xjycqtrToo~HWRaUMhzMEqL6eI0u0q6zftQdoPyCKs2yNLBXjXOfx9V84M0p08dPbUJfoS34sVwuvh4lO2XDi126DdqVd54CO2vh3DWgRTrjeNWcqKN~RHK3e17lm4svjGX257d7NNpTfBEF2bNVzmEBr6EO7btjpNpXoXDYOWD5tA464Hp0jClUi0VbSaLS14aYz0mDJZy030Zr-hoRd7XfDNOMb-23~uZbINmoBAOdc4xllYTp7dyu0zxaA__",
+      "type": "",
+      "price": "300;"
+    },
+    {
+      "id": "e67b",
+      "name": "BOOK",
+      "image": "https://s3-alpha-sig.figma.com/img/d555/8bb6/6907db7660fa38a4d11588c0ac766a40?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WhKKCrkh-uEixW0HV4Wc8yCkMSUDOLW2ttdQ3Tsyj7nz3tvDDtDIWS0W6btsjyG1SIg7HrjKmx6KvfbRHEMrkGWQq7rrZZeE2oCzR7hyjOZbyDPoxwX6azGWlXCWISsYOG-jSk1h1XKn2PQLDkKwO5XuRSEwm1f6p76GP45r7Uy7C0YPvn-hRYBSt2TVt3aMlQz96bXlkx7CvqhOVRduZku3BJ17eapAEnFMnPf6D9wT0bfRg5b6ENf9WwIOqn2vXHsJJmHdlzM5m0bfC-HCkWQt1d83JQO8gRZSUbqd5jC1DENCxJFAbXhprSh8tK0htBxSFZlgH4A-XoARlJXC8w__",
+      "type": "",
+      "price": "200$"
+    },
+    {
+      "id": "1164",
+      "name": "BOOKK",
+      "image": "https://s3-alpha-sig.figma.com/img/ee8f/d775/5c50675d6c45295bb214c3ea32d7ee3f?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=naYGtd9VFynpFpUjO1k7fsVbOhhNJMC2TaOO4VMfDLJGP0CIH7hHVnPJPumvhurWdzYnZSJZc-QAvedAWA2rPyvoAeA~Sss-cDqyAbeQggPwPaT8rVqJjgcc7d7A0eZuT65uaO7iWnEzaYbPwu8ziGdwbXIKuFCoEzFqffK11iLxRURDDYDl08lQ95S3SmTGBri8jz3dmQlLZB4rscZUsx9S71XuEy3bWMiwIxAGqgFkypAUPt5~14wYmuuiwuv2j1kWSemgVkqLDWyEFhyLK9DVH9QUyPEAGdYP2DIYl32TP8ztaaq~0f31XH1xdqKSYwbPFmqF-YfchCZXbL5ULg__",
+      "type": "",
+      "price": "200$"
+    }
+  ]
+}
